@@ -1,5 +1,7 @@
 package recipebook;
 
+//A class contains basic setup of  ingredients. 
+
 public class Ingredients {
 	
         private String ingredient;
