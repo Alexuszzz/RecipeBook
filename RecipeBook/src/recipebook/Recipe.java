@@ -6,9 +6,8 @@ import java.util.List;
 public class Recipe {
 	
 	private int preparationTime;
-	private String name; 
-	
-    private List<Ingredients> ingredients;
+	private String name; 	
+        private List<Ingredients> ingredients;
     
  //New constructor with arguments, so all the number variables in the constructors should also be assigned. 
     
